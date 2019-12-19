@@ -1,0 +1,15 @@
+Class: Cup
+
+Attributes:
+
+type (string)
+totalCapacity (integer)
+currentCapacity (integer)
+isCleaned (boolean)
+
+Methods:
+
+addLiquid (adds 5 to currentCapacity)
+calculatePercentFull (currentCapacity / totalCapacity)
+clean (change isCleaned to true)
+removeAllLiquid (changes currentCapacity to 0)
