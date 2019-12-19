@@ -1,0 +1,42 @@
+How to become a Turing student:
+1 Attend a "Try Coding Event"
+  1.1 Go to turing.io
+  1.2 Navigate to "Try Coding" section of website
+  1.3 Find a date that you're available
+  1.4 Register for event
+  1.5 Pay $25
+  1.6 Show up for event
+    1.6.1 Take public transport to Turing
+    1.6.2 Find the basement
+  1.7 Try coding!
+2 Apply to become a student
+  2.1 Navigate to turing.io
+  2.2 Find the "Apply" section of the website
+    2.2.1 Navigate to the "Programs" tab
+  2.3 Click the "Apply Now" button
+  2.4 Watch the video on the application process
+  2.5 Take the logic test
+    2.5.1 Spend 2 hours a day practicing logic questions
+    2.5.2 Take the logic quiz
+    2.5.3 Sweat profusely while awaiting results
+3 Schedule interview
+  3.1 Open acceptance email
+  3.2 Reply to email with a date and time for your interview
+4 Interview in Person
+  4.1 Take public transportation to Turing
+  4.2 Nail the interview
+    4.2.1 Don't sweat (or swear) too much during the in-person logic questions
+5 Wait for acceptance email
+6 Confirm your acceptance
+7 Enroll!
+  7.1 Pick a program
+  7.2 Pick a start date/cohort
+  7.3 Pay your deposit
+8 Complete Mod0
+  8.1 Setup your Macbook
+  8.2 Attend Mod0 classes
+  8.3 Complete Mod0
+    8.3.1 Complete homework assignments
+    8.3.2 Complete Capstone assignments
+    8.3.3 Submit Capstone assignments
+9 Start Mod1!
