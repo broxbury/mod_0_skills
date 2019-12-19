@@ -1,0 +1,15 @@
+Class: Menu
+
+Attributes:
+
+type (string)
+specials (array)
+isLaminated (boolean)
+labels (array)
+
+
+Methods:
+changeType (changes menu type)
+addSpecial (adds a special as a string to the end of the specials array)
+laminate (changes isLaminated to true)
+addLabel (adds a label as a string to the beginning of the labels array)
