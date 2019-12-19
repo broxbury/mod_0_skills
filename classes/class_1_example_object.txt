@@ -1,0 +1,13 @@
+Object: sippyCup
+
+Values:
+
+type: "sippy"
+totalCapacity: 10
+currentCapacity: 3
+isCleaned: false
+
+addLiquid (3 + 5 = 8)
+calculatePercentFull (3 / 10 = .3)
+clean (isCleaned = true)
+removeAllLiquid (currentCapacity = 0)
