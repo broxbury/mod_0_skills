@@ -2,13 +2,13 @@ Object: dinnerMenu
 
 Attributes:
 type: "dinner"
-specials: ["Pork Shoulder", "Apple Pie", Clam Chowder", "BBQ Pizza"]
+specials: ["Pork Shoulder", "Apple Pie", "Clam Chowder", "BBQ Pizza"]
 isLaminated: false
 labels: ["logo", "location", "seasonal specials", "upcoming events"]
 
 Methods:
 
 changeType ("lunch")
-addSpecial: (adds "Steak Burrito" ["Pork Shoulder", "Apple Pie", Clam Chowder", "BBQ Pizza", Steak Burrito"])
+addSpecial (adds "Steak Burrito" ["Pork Shoulder", "Apple Pie", "Clam Chowder", "BBQ Pizza", Steak Burrito"])
 laminate (isLaminated = true)
 addLabel (adds "Christmas Eve hours" ["Christmas Eve hours", "logo", "location", "seasonal specials", "upcoming events"])
